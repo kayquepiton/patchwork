@@ -1,0 +1,1 @@
+Bem-vindo ao projeto MeuProjeto! Este projeto tem o objetivo de explorar e aprender sobre Git e controle de versão.
